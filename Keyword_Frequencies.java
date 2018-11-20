@@ -1,4 +1,4 @@
-//Ahmet Melih Türkmen 27.12.2017
+//Ahmet Melih TÃ¼rkmen 27.12.2017
 //This code is a basic keyword frequency calculator. Takes the words that we are looking for as a set and take a
 //java file as a input from user to search these words.
 
@@ -15,7 +15,7 @@ import java.util.Comparator;
 import java.util.HashSet;
 import java.util.Map;
 
-public class AhmetMelih_Turkmen {
+public class Keyword_Frequencies {
 
 	public static void main(String[] args) throws FileNotFoundException {
 
